@@ -5,3 +5,5 @@
 [**Link to Report 2](https://ayditore.github.io/markdown-parser/lab-report-2-week-4.html)
 
 [**Link to Report 3](https://ayditore.github.io/2022Spring_CSE15L_Week6/lab-report-3-week-6.html)
+
+[**Link to Report 3](https://ayditore.github.io/2022Spring_CSE15L_Week6/lab-report-4-week-8.html)
